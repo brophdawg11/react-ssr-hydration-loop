@@ -1,0 +1,11 @@
+{
+  "name": "react-ss-hydration-loop-17",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.mjs",
+  "license": "ISC",
+  "dependencies": {
+    "react": "17",
+    "react-dom": "17"
+  }
+}

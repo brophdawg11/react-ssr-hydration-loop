@@ -1,0 +1,11 @@
+{
+  "name": "react-ss-hydration-loop-18",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.mjs",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18",
+    "react-dom": "18"
+  }
+}
